@@ -1,3 +1,11 @@
+markdown
+
+
+---
+layout:default
+title:home
+---
+
 # Personal Portfolio
 I am studying for a Data Science bacherlor's degree with BPP and I am looking to showcase my statistical and ETL skills.
 
